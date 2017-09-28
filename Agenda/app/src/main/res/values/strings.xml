@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="facebook_app_id">960709477401770</string>
+    <string name="error_ini_session">Error al iniciar sesion</string>
+    <string name="cancel_ini_session">Inicio de sesion cancelado</string>
+    <string name="error_conn">Error de conexión</string>
+</resources>
